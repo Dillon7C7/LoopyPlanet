@@ -1,0 +1,6 @@
+c:\users\dillon\documents\visual studio 2015\Projects\DillonDommerLoopyPlanet\DillonDommerLoopyPlanet\bin\Debug\DillonDommerLoopyPlanet.exe.config
+c:\users\dillon\documents\visual studio 2015\Projects\DillonDommerLoopyPlanet\DillonDommerLoopyPlanet\bin\Debug\DillonDommerLoopyPlanet.exe
+c:\users\dillon\documents\visual studio 2015\Projects\DillonDommerLoopyPlanet\DillonDommerLoopyPlanet\bin\Debug\DillonDommerLoopyPlanet.pdb
+c:\users\dillon\documents\visual studio 2015\Projects\DillonDommerLoopyPlanet\DillonDommerLoopyPlanet\obj\Debug\DillonDommerLoopyPlanet.csprojResolveAssemblyReference.cache
+c:\users\dillon\documents\visual studio 2015\Projects\DillonDommerLoopyPlanet\DillonDommerLoopyPlanet\obj\Debug\DillonDommerLoopyPlanet.exe
+c:\users\dillon\documents\visual studio 2015\Projects\DillonDommerLoopyPlanet\DillonDommerLoopyPlanet\obj\Debug\DillonDommerLoopyPlanet.pdb
